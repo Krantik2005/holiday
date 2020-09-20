@@ -6,6 +6,6 @@
 
 1. Flexbox.
 2. Grid.
-3. Адаптивная вёрстка.
+3. Адаптивная вёрстка на малых разрешениях.
 
 https://krantik2005.github.io/holiday/index.html
