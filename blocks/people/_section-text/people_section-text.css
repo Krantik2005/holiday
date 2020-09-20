@@ -1,0 +1,11 @@
+.people_section-text {
+  width: 180px;
+  margin: 0;
+  padding-top: 10px;
+}
+
+@media screen and (max-width: 620px) {
+  .people_section-text {
+    margin: 0 auto;
+  }
+}

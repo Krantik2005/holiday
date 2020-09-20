@@ -1,0 +1,16 @@
+.card__preview {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+@media screen and (max-width: 650px) {
+  .card__preview {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .card__preview:nth-child(2n+1) {
+    flex-direction: column-reverse;
+  }
+}

@@ -1,0 +1,9 @@
+@import url("./__preview/card__preview.css");
+@import url("./__image/card__image.css");
+@import url("./__features/card__features.css");
+@import url("./_section-title/card_section-title.css");
+@import url("./_section-text/card_section-text.css");
+
+.card {
+  padding-top: 90px;
+}

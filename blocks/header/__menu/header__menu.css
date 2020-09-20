@@ -1,0 +1,11 @@
+.header__menu {
+  display: flex;
+  background-color: #ffffff;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 470px) {
+  .header__menu {
+    flex-direction: column;
+  }
+}

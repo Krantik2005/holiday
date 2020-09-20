@@ -1,0 +1,9 @@
+.people__item {
+  padding-top: 40px;
+}
+
+@media screen and (max-width: 520px) {
+  .people__item {
+    padding-top: 20px;
+  }
+}

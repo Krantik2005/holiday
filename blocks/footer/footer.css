@@ -1,0 +1,21 @@
+@import url("./__copyright/footer__copyright.css");
+
+.footer {
+  background-color: rgb(254, 205, 167);
+  min-height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (max-width: 650px) {
+  .footer {
+    min-height: 200px;
+  }
+}
+
+@media screen and (max-width: 470px) {
+  .footer {
+    min-height: 100px;
+  }
+}

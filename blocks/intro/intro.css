@@ -1,0 +1,15 @@
+@import url("./__dreams/intro__dreams.css");
+@import url("./__image/intro__image.css");
+@import url("./_section-title/intro_section-title.css");
+
+.intro {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 75px;
+}
+
+@media screen and (max-width: 760px) {
+  .intro {
+    flex-direction: column;
+  }
+}

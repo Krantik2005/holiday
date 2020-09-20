@@ -1,0 +1,9 @@
+.section-subtitle {
+  color: rgb(254, 205, 167);
+  text-transform: uppercase;
+  word-spacing: 5px;
+  font-size: 12px;
+  line-height: 1.4;
+  font-weight: normal;
+  margin: 0;
+}

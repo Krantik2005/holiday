@@ -1,0 +1,23 @@
+.header__link {
+  margin: 35px 45px 0 0;
+  text-decoration: none;
+  color: #000000;
+  height: fit-content;
+  font-size: 14px;
+  line-height: 1.2;
+  font-weight: normal;
+  align-self: flex-end;
+}
+
+.header__link:hover {
+  color: red;
+  transition: 0.4s ease;
+  text-decoration: underline;
+}
+
+@media screen and (max-width: 470px) {
+  .header__link {
+    margin: 0 auto;
+    padding-top: 30px;
+  }
+}

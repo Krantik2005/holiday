@@ -1,0 +1,13 @@
+.header__link-menu {
+  text-decoration: none;
+  color: #000000;
+  font-size: 14px;
+  line-height: 1.2;
+  font-weight: normal;
+}
+
+.header__link-menu:hover {
+  color: blue;
+  transition: 0.4s ease;
+  text-decoration: underline;
+}

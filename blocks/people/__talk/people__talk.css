@@ -1,0 +1,11 @@
+.people__talk {
+  width: 270px;
+  margin-left: 50px;
+}
+
+@media screen and (max-width: 650px) {
+  .people__talk {
+    margin: 0 auto;
+    text-align: center;
+  }
+}
